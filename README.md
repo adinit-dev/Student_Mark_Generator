@@ -1,21 +1,33 @@
-# Student Marks Generator 🎓 (In Progress)
+# 🎓 Student Mark Generator (Python Mini Project)
 
-A simple Python project to calculate a student's total marks, average, and percentage.
-
-## ✅ Current Features:
-- Input student name and marks
-- Calculate total marks
-- Display average and percentage
-
-## 🚧 Work in Progress:
-- Grade calculation logic
-- Input validation
-- CSV report (planned)
-
-## 📌 Status:
-Day 2 complete — more updates coming soon.
+A beginner-friendly Python project to calculate total marks, average, percentage, and grade for a student.
 
 ---
 
-Made by **Aditya Singh**  
-GitHub: [@adinit-dev](https://github.com/adinit-dev)
+## ✅ Features
+
+- Input student name and subject marks
+- Calculates:
+  - 📊 Total marks
+  - 🧮 Average
+  - 🎯 Percentage
+  - 🎓 Grade (based on percentage)
+- Clean and simple console menu interface
+
+---
+
+## 🛠 Tech Stack
+
+- Python (Core)
+- GitHub for version control
+
+---
+
+## 🚀 Project Status
+
+✅ Completed — Day 4  
+📝 Fully functional and uploaded on GitHub
+
+---
+
+## 📁 File Structure
